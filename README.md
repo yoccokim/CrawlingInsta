@@ -31,6 +31,9 @@ gensim을 제거 후 재설치 + Upgrade로 해결함.
 
 Image
 -----
+![전처리](https://user-images.githubusercontent.com/49060963/58536754-69fef800-822c-11e9-8cbd-5e85795d22f1.JPG)
+###### 신촌맛집, 이태원맛집, 제주도맛집의 게시물들을 특수문자와 Emoji 등을 제거 한 후 df의 모습
+
 ![단어유사도](https://user-images.githubusercontent.com/49060963/58534439-4d5fc180-8226-11e9-9400-429eb7b6486b.JPG)
 ###### 한국어 자연어 전처리 후 (soynlp) 단어간 유사성을 구해봄
 ###### X 를 인스타 검색어(예제에서는 신촌맛집, 이태원맛집, 제주도맛집)을 입력했고 Y는 모든 단어들의 집합
