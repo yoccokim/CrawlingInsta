@@ -34,12 +34,15 @@ Image
 ![전처리](https://user-images.githubusercontent.com/49060963/58536754-69fef800-822c-11e9-8cbd-5e85795d22f1.JPG)
 ###### 신촌맛집, 이태원맛집, 제주도맛집의 게시물들을 특수문자와 Emoji 등을 제거 한 후 df의 모습
 
+
 ![단어유사도](https://user-images.githubusercontent.com/49060963/58534439-4d5fc180-8226-11e9-9400-429eb7b6486b.JPG)
 ###### 한국어 자연어 전처리 후 (soynlp) 단어간 유사성을 구해봄
 ###### X 를 인스타 검색어(예제에서는 신촌맛집, 이태원맛집, 제주도맛집)을 입력했고 Y는 모든 단어들의 집합
 
+
 ![시각화원본](https://user-images.githubusercontent.com/49060963/58534480-65374580-8226-11e9-93c1-a2bcbd4f0ae3.JPG)
 ###### Plot으로 t-SNE를 시각화 하였다.
+
 
 ![확대](https://user-images.githubusercontent.com/49060963/58534488-69fbf980-8226-11e9-8c59-b7b92cc683c4.JPG)
 ###### 여러 단어가 뭉쳐있는 부분을 확대한 Image.
