@@ -12,8 +12,13 @@ Example.zip
 >인스타그램 크롤러를 통해 3가지 검색어에 대해서 추출한 Excel file 입니다.
 
 Usage
-Uase
-* 작성자는 Anconda를 통해 Python 3.7 버전을 이용하였으며 운영체제는 Windows 10 64bit 입니다.
-1. 자신의 Chrome Version과 맞는 Chromedriver.exe 를 설치하여 Scripts 폴더에 위치시킨다.
-2. 크롤러 사용을 위해 본문에서 사용한 모든 모듈을 설치했는지 확인하고 설치 혹은 Update 한다.
+-----
 
+>* 작성자는 Anconda를 통해 Python 3.7 버전을 이용하였으며 운영체제는 Windows 10 64bit 입니다.
+>1. 자신의 Chrome Version과 맞는 Chromedriver.exe 를 설치하여 Scripts 폴더에 위치시킨다. (이게 편함)
+>2. Crawler 사용을 위해 본문에서 사용한 모든 모듈을 설치했는지 확인하고 설치 혹은 Update 한다.
+>3. ChromeDriver.exe의 경로를 정확히 입력한다.
+>4. 그 이후로는 모듈이 구동이 되었다면 막히는 것 없이 사용할 수 있다.
+
+Image
+-----
