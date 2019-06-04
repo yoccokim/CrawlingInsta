@@ -53,4 +53,5 @@ Image
 End...
 ------
 python 언어에 익숙치 않았기 때문에 코딩한 것이 굉장히 조잡하다.
-프로그래머즈와 https://ratsgo.github.io 에서 많은 도움을 얻었다.
+프로그래머즈와 https://ratsgo.github.io , https://lovit.github.io/nlp/2018/04/09/cohesion_ltokenizer/
+에서 많은 도움을 얻었다.
