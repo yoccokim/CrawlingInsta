@@ -37,7 +37,7 @@ gensim을 제거 후 재설치하고 update하는 것으로 해결했다.
 Image
 -----
 ![전처리](https://user-images.githubusercontent.com/49060963/58888309-2b80a600-8722-11e9-9a1c-701716d538c0.JPG)
-###### 신촌맛집, 이태원맛집, 제주도맛집의 게시물들을 특수문자와 Emoji 등을 제거 한 후 df의 모습
+###### 검색어에 따른 게시물들을 특수문자와 Emoji 등을 제거 한 후 df의 모습
 
 
 ![단여유사도(마라탕)](https://user-images.githubusercontent.com/49060963/58888177-f5432680-8721-11e9-9bef-88bd81871bbd.JPG)
