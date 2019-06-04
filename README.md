@@ -36,26 +36,21 @@ gensim을 제거 후 재설치하고 update하는 것으로 해결했다.
 
 Image
 -----
-![전처리](https://user-images.githubusercontent.com/49060963/58536754-69fef800-822c-11e9-8cbd-5e85795d22f1.JPG)
+![전처리](https://user-images.githubusercontent.com/49060963/58888309-2b80a600-8722-11e9-9a1c-701716d538c0.JPG)
 ###### 신촌맛집, 이태원맛집, 제주도맛집의 게시물들을 특수문자와 Emoji 등을 제거 한 후 df의 모습
 
 
-![단어유사도](https://user-images.githubusercontent.com/49060963/58534439-4d5fc180-8226-11e9-9400-429eb7b6486b.JPG)
-###### 한국어 자연어 전처리 후 (soynlp) 단어간 유사성을 구해봄
-###### X 를 인스타 검색어(예제에서는 신촌맛집, 이태원맛집, 제주도맛집)을 입력했고 Y는 모든 단어들의 집합
+![단여유사도(마라탕)](https://user-images.githubusercontent.com/49060963/58888177-f5432680-8721-11e9-9bef-88bd81871bbd.JPG)
+###### gensim 패키지가 제공하는 기능 중 ‘most_similar’라는 함수로 검색어와 가장 비슷한 단어 10개 추출
 
 
-![시각화원본](https://user-images.githubusercontent.com/49060963/58534480-65374580-8226-11e9-93c1-a2bcbd4f0ae3.JPG)
-###### Plot으로 t-SNE를 시각화 하였다.
 
-
-![확대](https://user-images.githubusercontent.com/49060963/58534488-69fbf980-8226-11e9-8c59-b7b92cc683c4.JPG)
-###### 여러 단어가 뭉쳐있는 부분을 확대한 Image.
-
+![산점도전체](https://user-images.githubusercontent.com/49060963/58888552-8914f280-8722-11e9-8a68-c6043cc2037a.png)
+###### t-SNE를 이용해 시각화한 image.
 
 
 
 End...
 ------
-우리 팀원 모두 처음 해보는 공부이고 python 언어에 익숙치 않았기 때문에 코딩한 것이 굉장히 조잡하다.
-양해 바라며 의도에 맞게 연구를 한 것이기를.... py 본문의 내용 대부분이 구글링을 통해 얻은 해답이었고 프로그래머즈에서 많은 도움을 받았다.
+python 언어에 익숙치 않았기 때문에 코딩한 것이 굉장히 조잡하다.
+프로그래머즈와 https://ratsgo.github.io 에서 많은 도움을 얻었다.
